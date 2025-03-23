@@ -39,5 +39,5 @@ et d'autres operations, les suivantes :
 - npm start
 
 note: 
-le backend tourne sur http://localhost:8080
-le frontend tourne sur http://localhost:3000
+le backend(branche main) tourne sur http://localhost:8080
+le frontend(branche master) tourne sur http://localhost:3000
